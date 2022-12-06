@@ -1,7 +1,7 @@
 # Merge sort and Insertion sort
 
 ## Aim:
-To write a program to perform merge sort and insertion sort using C# programming and windows form.
+Writing a program to perform merge sort and insertion sort using C# programming and windows form.
 
 ## Equipment’s required:
 1.	Hardware – PCs , labtop
@@ -20,16 +20,4 @@ To write a program to perform merge sort and insertion sort using C# programming
 4.	Break the loop and insert X.
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 
-## Program:
-i)	#merge Sort
-```
-```
-ii)	#Insertion Sort
-```
-```
 
-## Output:
-Sorted array
-
-## Result:
-Thus the program is written to perform selection sort and insertion sort using python programming.
