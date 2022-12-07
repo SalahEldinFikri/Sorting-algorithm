@@ -20,4 +20,5 @@ Writing a program to perform merge sort and insertion sort using C# programming 
 4.	Break the loop and insert X.
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 
-
+##Input:
+you have a textbox you will put one elmente at a time an click insert.
