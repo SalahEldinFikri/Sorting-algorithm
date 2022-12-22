@@ -23,6 +23,6 @@ Writing a program to perform merge sort and insertion sort using C# programming 
 ## After you start the program you will have to chose the way you want to sort the array.
 ![image](https://user-images.githubusercontent.com/71356170/206052649-edaf3ae1-ad7c-4da1-bd1f-e258b9e779a3.png)
 
-## After you chose the way you will input the elemnets in the textbox one after aonther and you have to click insert to insert the element to the array.
+## After you chose the way you will input the elemnets in the textbox one after another and you have to click insert to insert the element to the array.
 ![image](https://user-images.githubusercontent.com/71356170/206052851-36895097-3e90-4f76-b967-6e609140fbca.png)
 
